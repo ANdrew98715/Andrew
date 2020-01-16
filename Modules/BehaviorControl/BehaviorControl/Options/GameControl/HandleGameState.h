@@ -69,16 +69,11 @@ option(HandleGameState)
 			}
 		if(theRobotInfo.number == 3)
 			{
-				//CRDefenderReadyState();
-				//FDefenderReadyState();
-				//TextRobotFDefenderReadyState();
 				FDefenderReadyState();
 			}
 		if(theRobotInfo.number == 4)
 			{
 				BDefenderReadyState();
-				//CLDefenderReadyState();
-				//TextRobotBDefenderReadyState();
 			}
 			
 		if(theRobotInfo.number == 5)

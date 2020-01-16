@@ -9,3 +9,6 @@ Gtk-Message: 16:24:25.907: GtkDialog mapped without a transient parent. This is 
 Warning: MotionRequest has changed and is converted. Some fields will keep their previous values.
 Warning: TeamBallModel has changed and is converted. Some fields will keep their previous values.
 Warning: TeamData has changed and is converted. Some fields will keep their previous values.
+Initializer: Could not kill any ping processes.
+Framework: Initialized Initializer.
+Gtk-Message: 10:33:21.801: GtkDialog mapped without a transient parent. This is discouraged.
