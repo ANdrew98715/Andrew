@@ -43,7 +43,7 @@ option(PlayingState)
 			
 		if(theRobotInfo.number == 5)
 			{
-				CStriker();
+				Striker();
 			}
         
         if(theRobotInfo.number == 6)

@@ -36,19 +36,11 @@
 //#include "Options/Output/MotionRequest/KickToPoint.h"
 
 #include "Options/Roles/GoalFreeKick.h"
-#include "Options/Roles/CStriker.h"
 #include "Options/Roles/Striker.h"
-#include "Options/Roles/KDefender.h"
 #include "Options/Roles/BDefender.h"
-#include "Options/Roles/BDefender1.h"
-#include "Options/Roles/CBDefender.h"
 #include "Options/Roles/FDefender.h"
-#include "Options/Roles/FDefender1.h"
-#include "Options/Roles/CFDefender.h"
 #include "Options/Roles/Keeper.h"
-#include "Options/Roles/TestRobot.h"
-#include "Options/Roles/TextRobotFDefender.h"
-#include "Options/Roles/TextRobotBDefender.h"
+
 #include "Options/Skills/GetUp.h"
 
 #include "Options/Tools/ButtonPressedAndReleased.h"
