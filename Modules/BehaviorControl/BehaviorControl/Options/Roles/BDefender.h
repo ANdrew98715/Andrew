@@ -1,6 +1,7 @@
 option(BDefender)
 {
 	static bool     flag = false;
+	static bool    flag2=false;
 	static unsigned int    time = 0;//定义全局变量-比赛时间
 	
 	common_transition
